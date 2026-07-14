@@ -1,3 +1,4 @@
+C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\api\ProductoAPI.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\conexion\Conexion.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\dao\CompraDAO.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\dao\ProductoDAO.java
@@ -10,7 +11,7 @@ C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\modelo\ItemCarrito.j
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\modelo\Producto.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\modelo\Usuario.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\modelo\Venta.java
-C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\RestaurarProductoServlet.java
+C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\RestConfig.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\CancelarCompraServlet.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\CarritoServlet.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\CompraProveedorServlet.java
@@ -19,5 +20,6 @@ C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\LoginServlet
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\LogoutServlet.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\ProductoServlet.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\ReporteServlet.java
+C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\RestaurarProductoServlet.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\UsuarioServlet.java
 C:\Users\joste\OneDrive\Desktop\SistemaBodega\src\main\java\servlet\VentaServlet.java

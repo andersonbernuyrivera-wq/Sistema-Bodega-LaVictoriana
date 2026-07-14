@@ -11,7 +11,6 @@ public class Producto {
     private String presentacion;
     private boolean eliminado;
     private Timestamp fechaEliminacion;
-
     public Producto() {}
 
     public Producto(int id, String nombre, double precio, double costoCompra,
