@@ -11,10 +11,9 @@ public class Conexion {
 
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            String url = "jdbc:mysql://localhost:3306/bodegadb";
-
-            String user = "root";
-            String pass = "Tzuyu";
+            String url = System.getenv("DB_URL");
+            String user = System.getenv("DB_USER");
+            String pass = System.getenv("DB_PASSWORD");
 
             con = DriverManager.getConnection(url, user, pass);
             System.out.println("Conexion OK");
